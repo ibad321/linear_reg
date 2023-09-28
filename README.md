@@ -22,8 +22,12 @@ Welcome to the Employee Salary Prediction project! In this repository, we demons
 
 ## Results
 
-We achieved a mean squared error (MSE) of [insert your MSE value here] on our test data, indicating the accuracy of our salary predictions based solely on years of experience.
-
+We achieved a mean squared error (MSE) of 
+Mean absolute error = 2446.17
+Mean squared error = 12823412.3
+Median absolute error = 1675.47
+Explain variance score = 0.99
+R2 score = 1
 ## Future Work
 
 - Experiment with different regression algorithms.
